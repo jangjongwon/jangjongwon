@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/844d157c-287b-47a2-838c-cde488d930af)<div align= "center">
+
      
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10&height=200&text=Jang%20Jong%20Won's%20GITHUB&fontSize=45&animation=twinkling&fontAlign=68&fontAlignY=36)
 
