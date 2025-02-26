@@ -22,7 +22,6 @@
 </div> <br>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-<img src="https://github.com/user-attachments/assets/425c3d87-107a-4d22-8ad5-ed1b31c49341">
 ✔ Solved.ac </h2> <br> 
         
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdwhd7598)
