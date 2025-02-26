@@ -25,8 +25,8 @@
 <img src="https://github.com/user-attachments/assets/425c3d87-107a-4d22-8ad5-ed1b31c49341">
 ✔ Solved.ac </h2> <br> 
         
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=solar37)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=solar37&theme=warm)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdwhd7598)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wkdwhd7598&theme=warm)
 
 </div><br>
 <div align= "center"> 
