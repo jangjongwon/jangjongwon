@@ -1,4 +1,4 @@
-<div align= "center">
+![image](https://github.com/user-attachments/assets/844d157c-287b-47a2-838c-cde488d930af)<div align= "center">
      
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,10&height=200&text=Jang%20Jong%20Won's%20GITHUB&fontSize=45&animation=twinkling&fontAlign=68&fontAlignY=36)
 
@@ -30,7 +30,7 @@
 
 </div><br>
 <div align= "center"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api?username=solar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api?username=wkdwhd7598&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> </div> 
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
